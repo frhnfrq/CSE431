@@ -1,12 +1,12 @@
 
 Overleaf link.
-https://www.overleaf.com/project/641356ac05a8b754d5c08f1c
+https://www.overleaf.com/project/6423334dbd030810df34872d
 
 Link to unlisted YouTube video:
-https://youtube.com/.....
+https://youtu.be/CVP7FRrBLPk
 
 Public link to the slide (Anyone on the internet can view without login):
-https://docs.google.com/presentation/.....
+https://docs.google.com/presentation/d/1FwQceUTi2zHCatlC7Fx_KOTmo4-WCvpweYa76D1jtW0/edit?usp=sharing
 
 Project title:
 Detecting and Translating Bengali Dialects to Improve Healthcare Communication: An NLP Approach
